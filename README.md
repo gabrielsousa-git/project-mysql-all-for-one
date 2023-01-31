@@ -1,13 +1,15 @@
-# :construction: README customizado em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
+# Boas vindas ao repositório do projeto All For One! <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="60" height="60"/>
 
-Para deixá-lo com a sua cara, basta alterar o seguinte arquivo da sua máquina: ~/.student-repo-publisher/custom/_NEW_README.md
+Foi realizado um projeto com o codinome <i>All For One</i> em que pude praticar os conceitos de SQL aprendidos até a realização do projeto. Para aplicar as <i>queries</i> aprendidas foi utilizado o banco de dados Northwind.
+ #
 
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+<strong>Desenvolvido por:</strong> [Gabriel Sousa](https://www.linkedin.com/in/gabriel-dev-biotec/)</br>
+#
+
+<summary><strong>Tecnologias exercitadas:</strong></summary><br />
+  
+ * MySQL <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="20" height="20"/>.
+ 
+ <summary><strong>Habilidades desenvolvidas:</strong></summary><br />
+
+ * Aplicar <i>queries</i> do MySQL para obter e manipular os dados, tabelas e colunas do banco de dados.
